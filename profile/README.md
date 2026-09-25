@@ -5,5 +5,5 @@
   </picture>
 </p>
 
-# MorvaneOS
+# MorvaneOS Linux
 A simple runit Arch system, using Artix's repos, and a fully customizable setup, with a archinstall-like TUI
