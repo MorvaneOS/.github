@@ -8,4 +8,4 @@
 # MorvaneOS Linux
 A simple runit Arch system, using Artix's repos, and a fully customizable setup, with a archinstall-like TUI
 
-[Download](https://morvane.doughmination.gay)
+Download the OS [here](https://morvane.doughmination.gay)
